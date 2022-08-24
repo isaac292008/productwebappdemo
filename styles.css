@@ -13,4 +13,8 @@ header {
 .linkholder {
     display: inline;
     text-align: right;
+    position: fixed;
+}
+.navlink{
+  text-align: right;
 }
