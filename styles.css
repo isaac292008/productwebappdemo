@@ -1,0 +1,16 @@
+body {
+  color: white;
+  background-image: linear-gradient(to bottom, blue, cyan);
+  font-family: Menlo;
+}
+header {
+
+}
+.navbar {
+    color: black;
+    background: white;
+}
+.linkholder {
+    display: inline;
+    text-align: right;
+}
